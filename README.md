@@ -2,7 +2,7 @@
 
 Bienvenue sur le repo officiel de la série de vidéos "Crée un bot discord avec python" réalisée par Pano29Officiel.
 
-[![Alt text](https://cdn.discordapp.com/attachments/775770838309404722/856615611094663188/baniere_parent.png)](https://www.pano29officiel.tk)
+[![Alt text](https://cdn.discordapp.com/attachments/775770838309404722/856615611094663188/baniere_parent.png)](http://www.pano29officiel.tk)
 
 Cette série de vidéos vous permet d'apprendre à développer un BOT DISCORD avec PYTHON. Tous les scripts du projet sont en C# et il est recommandé de suivre la série en version 2019.4.
 
