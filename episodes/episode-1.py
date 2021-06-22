@@ -62,4 +62,4 @@ async def ping(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run("ODU1ODMzODY5OTAzNDYyNDIw.YM4PZw.0c0HM_dE04S34EjMKsD0zSxbiAw")
+bot.run(TOKEN-BOT)
