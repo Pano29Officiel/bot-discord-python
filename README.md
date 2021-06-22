@@ -1,4 +1,5 @@
-#Créer un BOT DISCORD en PYTHON
+# Créer un FPS MULTIJOUEUR avec Mirror sur Unity
+Bienvenue sur le repo officiel de la série de vidéos "Créer un FPS en MULTIJOUEUR avec Mirror sur Unity" réalisée par zef de la TUTO UNITY FR.
 
 #Bienvenue sur le repo officiel de la série de vidéos "Crée un bot discord avec python" réalisée par Pano29Officiel.
 
