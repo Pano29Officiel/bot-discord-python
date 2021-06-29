@@ -1,7 +1,7 @@
 # :discord: Créer un BOT DISCORD avec PYTHON
 
 [![Discord](https://img.shields.io/discord/702114006399189062?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://pterodactyl-installer.se/discord)
-[![Python](https://img.shields.io/pypi/dm/discord?logo=python&logoColor=fff)](https://pypi.org/project/discord.py/)
+[![Python](https://img.shields.io/pypi/dm/discord?logo=python&logoColor=fff)](https://python.org)
 
 Unofficial scripts for installing Pterodactyl Panel & Wings. Works with the latest version of Pterodactyl!
 
@@ -24,9 +24,9 @@ List of supported installation setups for panel and Wings (installations support
 
 ### Supported panel operating systems and webservers
 
-| Operating System | Version | nginx support      | PHP Version |
+| Vidéo            | Version | nginx support      | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
-| Ubuntu           | 14.04   | :red_circle:       |             |
+| #0 Introduction  | 14.04   | :red_circle:       |             |
 |                  | 16.04   | :red_circle: \*    |             |
 |                  | 18.04   | :white_check_mark: | 8.0         |
 |                  | 20.04   | :white_check_mark: | 8.0         |
