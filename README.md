@@ -1,7 +1,5 @@
-# :bird: pterodactyl-installer
+# :discord: Créer un BOT DISCORD avec PYTHON
 
-[![Build Status](https://travis-ci.com/vilhelmprytz/pterodactyl-installer.svg?branch=master)](https://travis-ci.com/vilhelmprytz/pterodactyl-installer)
-[![License: GPL v3](https://img.shields.io/github/license/vilhelmprytz/pterodactyl-installer)](LICENSE)
 [![Discord](https://img.shields.io/discord/702114006399189062?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://pterodactyl-installer.se/discord)
 [![Python](https://img.shields.io/pypi/dm/discord?logo=python&logoColor=fff)](https://pypi.org/project/discord.py/)
 
