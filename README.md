@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/vilhelmprytz/pterodactyl-installer.svg?branch=master)](https://travis-ci.com/vilhelmprytz/pterodactyl-installer)
 [![License: GPL v3](https://img.shields.io/github/license/vilhelmprytz/pterodactyl-installer)](LICENSE)
 [![Discord](https://img.shields.io/discord/702114006399189062?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://pterodactyl-installer.se/discord)
-[![made-with-bash](https://img.shields.io/pypi/dm/discord?logo=python&logoColor=fff)](https://pypi.org/project/discord.py/)
+[![Python](https://img.shields.io/pypi/dm/discord?logo=python&logoColor=fff)](https://pypi.org/project/discord.py/)
 
 Unofficial scripts for installing Pterodactyl Panel & Wings. Works with the latest version of Pterodactyl!
 
