@@ -24,18 +24,18 @@ List of supported installation setups for panel and Wings (installations support
 
 ### Supported panel operating systems and webservers
 
-| Vidéo            | Version | nginx support      | PHP Version |
-| ---------------- | ------- | ------------------ | ----------- |
-| #0 Introduction  | 14.04   | :red_circle:       |             |
-|                  | 16.04   | :red_circle: \*    |             |
-|                  | 18.04   | :white_check_mark: | 8.0         |
-|                  | 20.04   | :white_check_mark: | 8.0         |
-| Debian           | 8       | :red_circle: \*    |             |
-|                  | 9       | :white_check_mark: | 8.0         |
-|                  | 10      | :white_check_mark: | 8.0         |
-| CentOS           | 6       | :red_circle:       |             |
-|                  | 7       | :white_check_mark: | 8.0         |
-|                  | 8       | :white_check_mark: | 8.0         |
+| Vidéo            | Disponible| nginx support      | PHP Version |
+| ---------------- | -------   | ------------------ | ----------- |
+| #0 Introduction  | 14.04     | :red_circle:       |             |
+| #1               | 16.04     | :red_circle: \*    |             |
+| #2               | 18.04     | :white_check_mark: | 8.0         |
+| #3               | 20.04     | :white_check_mark: | 8.0         |
+| Création en cour | 8         | :red_circle: \*    |             |
+|                  | 9         | :white_check_mark: | 8.0         |
+|                  | 10        | :white_check_mark: | 8.0         |
+| CentOS           | 6         | :red_circle:       |             |
+|                  | 7         | :white_check_mark: | 8.0         |
+|                  | 8         | :white_check_mark: | 8.0         |
 
 ### Supported Wings operating systems
 
