@@ -20,4 +20,4 @@ async def ping(ctx):
                           color=0x3bc200)
     await ctx.send(embed=embed)
 
-bot.run(TOKEN : disponible sur le portail discord develloper)
+bot.run(TOKEN) #ATTENTION remplacer "TOKEN" par le token de votre bot, disponible sur le portail discord develloper
